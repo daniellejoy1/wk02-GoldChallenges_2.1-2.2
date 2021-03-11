@@ -1,1 +1,24 @@
-/* STYLE HERE */
+#imageOne {
+   
+    border: 5px; 
+    border-color: black;
+    border-radius: 100px;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 400px;
+    width: auto;
+}
+
+#imageTwo {
+    border: 5px; 
+    border-color: black;
+    border-radius: 100px;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 400px;
+    width: auto;
+}
